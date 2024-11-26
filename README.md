@@ -10,7 +10,7 @@ In my free time I'm coding stuff in java and playing computer games.
 - I have an obsession with the [Jetbrains Mono](https://www.jetbrains.com/lp/mono/) font
 
 ## 💻 My Projects
-- [WIP] [CharSheet](https://github.com/duwutape/CharSheet): A program to create and view dnd5e (2014 & 2024) character sheets
+- [WIP] [CharSheet](https://github.com/duwutape/CharSheet): A program to create and view dnd5e (2014 ~~& 2024~~) character sheets
 - [WIP] [The Legend of Zelda - Remake](https://github.com/Duwutape/tloz_remake): A remake of the first The Legend of Zelda
 - [DnDice](https://github.com/Duwutape/DnDice): Dice rolling program for DnD, P&P and other games
 - [Uno](https://github.com/Duwutape/UNO_Uni): An Uno game against bots, created for the module "Programmierung und Modelierung"
