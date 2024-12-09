@@ -2,7 +2,7 @@
 
 ## 🙋🏻 About Me
 I'm Raven aka duwutape, and I'm currently studying computer science at University of Kassel. 
-In my free time I'm coding stuff in java and playing computer games.
+In my free time I'm coding stuff mainly in java and playing computer games.
 
 ## ✨ Fun Facts
 - Some friends call me duwutapete
