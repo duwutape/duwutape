@@ -14,7 +14,7 @@ In my free time I'm coding stuff mainly in java and playing computer games.
 - [WIP] [The Legend of Zelda - Remake](https://github.com/Duwutape/tloz_remake): A remake of the first The Legend of Zelda
 - [DnDice](https://github.com/Duwutape/DnDice): Dice rolling program for DnD, P&P and other games
 - [Uno](https://github.com/Duwutape/UNO_Uni): An Uno game against bots, created for the module "Programmierung und Modelierung"
-- [Website](https://duwutape.github.io/homepage.html): My beautiful website
+- [Webhub](https://duwutape.github.io/homepage.html): My beautiful webhub
 
 ## 📲 My Socials
 
